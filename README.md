@@ -104,7 +104,8 @@ Agora precisamos responder aos 3 objetivos iniciais:
 2. Total de passageiros transportados por empresa aérea, por rota e variando por mês, semestre e ano;
 3. Quais as rotas com maior custo benefício baseado na relação entre passageiros pagantes e consumo de combustível, variando por mês, semestre e ano;
 
-O notebook [06-analises](notebooks/06-analises.ipynb) traz as respostas para esses objetivos. Para compreender é melhor essa análise e o desenvolvimento deste projeto, sugiro assistir a este vídeo que gravei. Nele é possível validar melhor as respostas para os 3 objetivos iniciais.
+O notebook [06-analises](notebooks/06-analises.ipynb) traz as respostas para esses objetivos. Para compreender é melhor essa análise e o desenvolvimento deste projeto, sugiro assistir o vídeo a seguir que gravei. Nele é possível validar melhor as respostas para os 3 objetivos iniciais:
+- [Projeto Final - Pós Graduação PUC Rio](https://youtu.be/ibde4zwR3QQ)
 
 ### Conclusão e autoavaliação:
 Realizar este trabalho foi bastante desafiador. Já tinha experiência de trabalhar com Python e PySpark pois são ferramentas que utilizo no dia a dia de trabalho. No entanto, lá, fico refém e delimitado ao ambiente da organização. Nunca tinha tido a experiência de trabalhar da minha própria máquina e utilizando dataframes externos. Ter conhecido o databricks vai me ajudar bastante nas próximas etapas da carreira.
